@@ -12,3 +12,6 @@ project/plugins/project/
 .history
 .cache
 .lib/
+
+# COURSERA
+**/assignment.sbt
