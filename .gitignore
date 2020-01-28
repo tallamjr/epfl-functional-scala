@@ -15,3 +15,5 @@ project/plugins/project/
 
 # COURSERA
 **/assignment.sbt
+
+*.mp4
